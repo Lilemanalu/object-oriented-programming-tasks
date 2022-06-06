@@ -1,0 +1,10 @@
+lecturer-add#0130058501#Parmonangan Rotua Togatorop#PAT#mona.togatorop@del.ac.id#Information Systems
+lecturer-add#0114129002#Iustisia Natalia Simbolon#IUS#iustisia.simbolon@del.ac.id#Informatics
+lecturer-add#0124108201#Rosni Lumbantoruan#RSL#rosni@del.ac.id#Information Systems
+course-add#12S2102#Basisdata#4#C#PAT,IUS,RSL
+student-add#12S20001#Marcelino Manalu#2020#Information Systems
+enrollment-add#12S2102#12S20001#2021/2022#odd
+student-add#12S20002#Yoga Sihombing#2020#Information Systems
+enrollment-add#12S2102#12S20002#2021/2022#odd
+enrollment-grade#12S2102#12S20002#2021/2022#odd#AB
+---
