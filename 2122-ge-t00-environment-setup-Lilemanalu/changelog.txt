@@ -1,0 +1,4 @@
+Melengkapi kelas t00.env.HelloWorld dengan main method
+Melengkapi kelas t00.env.HelloJava dengan main method
+Melengkapi kelas t00.env.IO dengan main method
+
